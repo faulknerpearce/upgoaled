@@ -1,15 +1,15 @@
-# Goalfi 🏁
+# Upgoaled 🏁
 ## A web3 application designed to motivate goal completion. 
 
-![Alt text](client/images/goalfi.png)
+![Alt text](client/images/Upgoaled.png)
 
 ## Introduction
-Goalfi is an application that leverages blockchain technology to streamline the way individuals track and accomplish their goals. 
+Upgoaled is an application that leverages blockchain technology to streamline the way individuals track and accomplish their goals. 
 By staking tokens as a commitment to their goals, users are held accountable for their progress. If a goal is not met, the tokens are forfeited and redistributed among users who have successfully accomplished their goals. 
 This unique approach adds a competitive edge and fosters collective responsibility and gamifies the process of personal achievements.
 
 ## Overview
-Goalfi is designed to motivate and reward users for accomplishing quantifiable goals. Users can join predefined goals, stake a certain amount of cryptocurrency, and claim rewards upon goal completion within the stipulated timeframe.
+Upgoaled is designed to motivate and reward users for accomplishing quantifiable goals. Users can join predefined goals, stake a certain amount of cryptocurrency, and claim rewards upon goal completion within the stipulated timeframe.
 Upgoaled is built in solidity and uses Chainlink Functions for secure and reliable data feeds. The smart contract handles the staking, tracking, and reward distribution, ensuring a robust and transparent application.
 
 ## Features
